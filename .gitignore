@@ -128,3 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
+checkpoint
+data.pickle
+model.tflearn.data-00000-of-00001
+model.tflearn.index
+model.tflearn.meta
